@@ -4,7 +4,7 @@ This Framework was designed to compile your Delphi project on the Web, all proce
 
 
 ## Oficial Web Site
-https://www.d2bridge.com.br
+https://d2bridge.com.br
 
 
 ## Author
@@ -37,12 +37,13 @@ Delphi Version:
 - Delphi Athens (12.0)
 - Delphi Athens (13.0)
 
-Lazarus Version:
+Lazarus Version (Windows Only):
 - Lazarus 3.4
 - Lazarus 3.6
 - Lazarus 3.8
 - Lazarus 4.0
 - Lazarus 4.2
+- Lazarus 4.4
 
 
 ## Oficial Courses (PT-BR)
@@ -77,8 +78,11 @@ https://www.youtube.com/@talisjonatas
 Discord (English and PT-BR)
 https://discord.gg/WvHaWP6h9t
 
-Whatsapp (PT-BR)
+Whatsapp (D2Bridge Framework Delphi Web) (PT-BR)
 https://chat.whatsapp.com/Jz8ditsGyzl79eSI5tL5Cq
+
+Whatsapp (D2Bridge for Lazarus) (PT-BR)
+https://chat.whatsapp.com/BlFAhfOZPny3GFSSH4LPxI
 
 Telegram (PT-BR)
 http://t.me/d2bridge
@@ -89,9 +93,13 @@ https://www.instagram.com/d2bridgeframework
 
 
 ## Installation
-- First close all Delphi Open Instances
-- To install complete D2Bridge Framework and D2Bridge Wizard Use InstallD2Bridge in Wizard\InstallD2BridgeWizard.exe
+Delphi Version:
+- First, close all open Delphi instances.
+- To install the full D2Bridge Framework and the D2Bridge Wizard, run: Wizard/InstallD2BridgeWizard.exe
 
+Lazarus Version (Windows Only):
+- First, close all open Lazarus instances.
+- To install the full D2Bridge Framework and the D2Bridge Wizard, compile and install the package: Wizard/Package/d2bridgeframeworkwizard.lpk
     
 ## Support
 Use the D2Bridge Discord channel for community support
