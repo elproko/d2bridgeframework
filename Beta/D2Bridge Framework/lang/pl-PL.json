@@ -33,16 +33,16 @@
         "ButtonAll": "Wszystko",
         "ButtonNoToAll": "Nie dla wszystkich",
         "ButtonYesToAll": "Tak dla wszystkich",
-        "ButtonmrHelp": "Pomoc",
-        "ButtonmrClose": "Zamknij"
+        "ButtonHelp": "Pomoc",
+        "ButtonClose": "Zamknij"
     },
     "MessageType": {
         "TypeWarning": "Ostrzeżenie",
         "TypeError": "Błąd",
         "TypeSuccess": "Sukces",
         "TypeInfo": "Informacja",
-        "TypeQuestion": "Pytanie",
-        "TypeInformation": "Informacja"
+        "TypeQuestion": "Pytanie"
+        
     },
     "Upload": {
         "CaptionInput": "Dotknij, aby wybrać plik",
@@ -79,8 +79,8 @@
     },
     "Error429": {
         "Title": "Zbyt wiele połączeń",
-        "Text1": "Przekrono limit połączeń. Proszę czekać",
-        "Text2": "sekund, na kolejną próbe połączenia."
+        "Text1": "Przekroczono limit połączeń. Proszę czekać",
+        "Text2": " sekund, na kolejną próbe połączenia."
     },
     "ErrorBlacklist": {
         "Title": "Adres IP Zablokowany",
