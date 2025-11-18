@@ -801,7 +801,7 @@ begin
   begin
    Total := Self.RecordCount;
 
-   // Calcular o n�mero real de registros retornados
+   // Calcular o número real de registros retornados
    if (AOffset >= Total) then
     Count := 0
    else if (AMaxRecords = 0) or (AOffset + AMaxRecords > Total) then
